@@ -4,6 +4,7 @@ sqlmodel==0.0.22 ; python_version >= '3.11'
 pyjwt==2.10.1 ; python_version >= '3.11'
 email-validator==2.2.0 ; python_version >= '3.11'
 aiosmtplib==4.0.0 ; python_version >= '3.11'
+uvicorn==0.34.0 ; python_version >= '3.11'
 # pip install alembic
 
 
